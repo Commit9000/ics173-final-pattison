@@ -16,8 +16,8 @@ Track A
 | 2 | Hawaii Open Data: Overall Hawaii visitor Numbers | https://opendata.hawaii.gov/dataset/report-card-1-overall-hawaii-visitor-numbers, pulled by code with Python|
 
 **Plan:**
-- Baseline: <Seasonal Naive Baseline>
-- Model 1: <Linear Regression>
-- Model 2: <Gradient Boosting>
+- Baseline: <#Seasonal Naive Baseline>
+- Model 1: <#Linear Regression>
+- Model 2: <#Gradient Boosting>
 - Metric: <MAPE> because it shows how large an error is relative to expected demand. An airline network planner would want to know deviations from expected demand to prepare possible changes in flight frequencies and schedules.
 ****
