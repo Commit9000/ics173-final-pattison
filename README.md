@@ -12,8 +12,8 @@ Track A
 **Data sources:**
 | # | Source | URL | How I get it (code or manual) |
 |---|--------|-----|-------------------------------|
-| 1 | DBEDT 2026 preliminary Monthly visitor statistics for Maui | https://files.hawaii.gov/dbedt/economic/tourism/monthly-islands/2026%20Maui.xlsx|
-| 2 | Hawaii Open Data: Overall Hawaii visitor Numbers | https://opendata.hawaii.gov/dataset/report-card-1-overall-hawaii-visitor-numbers, pulled by code with Python|
+| 1 | DBEDT 2026 preliminary Monthly visitor statistics for Maui | https://files.hawaii.gov/dbedt/economic/tourism/monthly-islands/2026%20Maui.xlsx| Download
+| 2 | Hawaii Open Data: Overall Hawaii visitor Numbers | https://opendata.hawaii.gov/dataset/report-card-1-overall-hawaii-visitor-numbers| Pulled by code
 
 **Plan:**
 - Baseline: <#Seasonal Naive Baseline>
